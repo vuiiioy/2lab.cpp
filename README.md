@@ -1,4 +1,4 @@
-# Горбунова Софья ДВБ7-ЛА2 Лабораторная №2 Вариант №2
+<img width="391" height="182" alt="image" src="https://github.com/user-attachments/assets/812e8315-a056-4751-93e9-f47322ad6820" /># Горбунова Софья ДВБ7-ЛА2 Лабораторная №2 Вариант №2
 
 # Задание 1
 
@@ -20,7 +20,8 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="397" height="205" alt="image" src="https://github.com/user-attachments/assets/aa917c21-79ec-42e5-98e2-f74019416d03" />
+<img width="433" height="245" alt="image" src="https://github.com/user-attachments/assets/4b767de8-7d2b-446a-a59d-7557a8291a3e" />
 
 # Задание 2
 
@@ -42,7 +43,10 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+
+<img width="438" height="315" alt="image" src="https://github.com/user-attachments/assets/c0bb07dd-9c68-4d45-9c3e-89e04d1e8524" />
+<img width="603" height="540" alt="image" src="https://github.com/user-attachments/assets/edccff87-cc2d-4cb8-8b2e-ac335f31d676" />
+
 
 # Задание 3
 
@@ -64,7 +68,9 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+
+<img width="401" height="215" alt="image" src="https://github.com/user-attachments/assets/d297c5b9-8033-42da-8919-50a602eecde8" />
+<img width="455" height="295" alt="image" src="https://github.com/user-attachments/assets/3436121b-cbaa-42d9-b6ad-6f837cbc6154" />
 
 # Задание 4
 
@@ -90,7 +96,9 @@
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="348" height="100" alt="image" src="https://github.com/user-attachments/assets/389ecadd-c6d9-4693-9a2c-c672c31414a3" />
+<img width="415" height="125" alt="image" src="https://github.com/user-attachments/assets/e8b9e36e-fa1e-4a1e-824a-1c590f3f6353" />
+<img width="458" height="135" alt="image" src="https://github.com/user-attachments/assets/865112a9-72fa-4741-8189-1381b1c28db1" />
 
 # Задание 5
 
@@ -123,7 +131,9 @@ r.base() или (++r).base().
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="391" height="182" alt="image" src="https://github.com/user-attachments/assets/c2640b16-4f61-40b3-b50a-f1c01b45a181" />
+<img width="427" height="176" alt="image" src="https://github.com/user-attachments/assets/2884227b-ceca-4158-a27d-b36c1fb2d0d5" />
+<img width="410" height="103" alt="image" src="https://github.com/user-attachments/assets/fbe3fbf0-93f6-49f5-89e8-de61b67be015" />
 
 # Задание 6
 
@@ -149,7 +159,9 @@ r.base() или (++r).base().
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="451" height="345" alt="image" src="https://github.com/user-attachments/assets/1ca32548-57bb-4f7c-9512-9f685e9d73f5" />
+<img width="392" height="170" alt="image" src="https://github.com/user-attachments/assets/29ceb5a6-cf3e-42b9-ab0f-2b0863a46264" />
+
 
 # Задание 7
 
@@ -176,7 +188,8 @@ r.base() или (++r).base().
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="515" height="273" alt="image" src="https://github.com/user-attachments/assets/444b5cde-d0a6-4fc5-808f-f8b12bd134e2" />
+<img width="495" height="232" alt="image" src="https://github.com/user-attachments/assets/620144ad-dabf-4950-aed0-278f207b6fb0" />
 
 # Задание 8
 
@@ -204,7 +217,8 @@ r.base() или (++r).base().
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="527" height="181" alt="image" src="https://github.com/user-attachments/assets/62ee4b7f-a237-4da8-a76b-f6600f3517d3" />
+<img width="527" height="165" alt="image" src="https://github.com/user-attachments/assets/c244bccd-b642-42af-b4dd-8ebfca50f5fb" />
 
 # Задание 9
 
@@ -232,7 +246,8 @@ r.base() или (++r).base().
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="512" height="541" alt="image" src="https://github.com/user-attachments/assets/72dd60f0-0ef4-4256-ba02-dd78f05a7b71" />
+<img width="548" height="487" alt="image" src="https://github.com/user-attachments/assets/af29aa53-93f7-4d8b-b4c3-ed0ed72ae994" />
 
 # Задание 10
 
@@ -265,4 +280,6 @@ r.base() или (++r).base().
 
 ### Тестирование
 
-Скриншоты результата работы программы
+<img width="552" height="315" alt="image" src="https://github.com/user-attachments/assets/8133461d-687a-4332-aedd-72ab50a9507d" />
+<img width="486" height="207" alt="image" src="https://github.com/user-attachments/assets/b5776843-8b3d-4f27-becd-78ed6163e2c4" />
+
